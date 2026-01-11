@@ -21,9 +21,9 @@ While the Roblox platform takes a mandatory **30% fee** on all sales, understand
 
 ### Key Features on [RobloxTax.com](https://robloxtax.com):
 
-1.  **Instant Tax Calculator: Input any amount to see the 30% deduction and your 70% net profit immediately.
-2.  **Reverse Calculator**: Want to earn exactly 100 Robux? Our tool tells you exactly what price to list your item for (e.g., list for 143 R$).
-3.  **2026 DevEx Rate Support**: Unlike older tools, we support the **New Exchange Rate ($0.0038/R$)** for Robux earned after September 5, 2025, alongside the Legacy Rate ($0.0035/R$).
+1.  **[Instant Roblox Tax Calculator](https://robloxtax.com)**: Input any amount to see the 30% deduction and your 70% net profit immediately.
+2.  **[Reverse Calculator](https://robloxtax.com)**: Want to earn exactly 100 Robux? Our tool tells you exactly what price to list your item for (e.g., list for 143 R$).
+3.  **[2026 DevEx Rate Support](https://robloxtax.com/devex)**: Unlike older tools, we support the **New Exchange Rate ($0.0038/R$)** for Robux earned after September 5, 2025, alongside the Legacy Rate ($0.0035/R$).
 4.  **Pending Sales Guide**: Estimates how long your Robux will be held in escrow (typically 3-7 days, up to 30 days for large amounts).
 
 ## 🧮 How to Calculate Roblox Tax
